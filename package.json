@@ -1,0 +1,9 @@
+{
+  "name": "codetimeline-js",
+  "version": "1.0.0",
+  "description": "A visual browser for the history of a source file",
+  "main": "index.js",
+  "repository": "https://github.com/briandk/codetimeline-js.git",
+  "author": "Brian Danielak <briandaniela.k+github@gmail.com>",
+  "license": "AGPL-3.0-or-later"
+}
